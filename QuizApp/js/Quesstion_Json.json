@@ -1,0 +1,135 @@
+[
+    {
+        "id": 344,
+        "question": "A systematic collection of data stored in a central location is known as?",
+        "description": null,
+        "answers": {
+            "answer_1": "CSV",
+            "answer_2": "Flat file",
+            "answer_3": "Database",
+            "answer_4": "Excel"
+        },
+        "correct_answer": "Database",
+        "explanation": null,
+        "tip": null,
+        "category": "SQL",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 400,
+        "question": "One of the early proponents of a Relational Database who laid down many of the principles we use to this day was:",
+        "description": null,
+        "answers": {
+            "answer_1": "Xigang Koi",
+            "answer_2": "Mahatma Coate",
+            "answer_3": "William Crawford",
+            "answer_4": "Edgar Codd"
+        },
+        "correct_answer": "Edgar Codd",
+        "explanation": null,
+        "tip": null,
+        "category": "SQL",
+        "difficulty": "Hard"
+    },
+    {
+        "id": 584,
+        "question": "Is it possible to use COM component in PHP?",
+        "description": null,
+        "answers": {
+            "answer_1": "True",
+            "answer_2": "False"
+        },
+        "correct_answer": "True",
+        "category": "Code",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 665,
+        "question": "Choose the correct usage of \u2018cd\u2019 to move into the parent directory.",
+        "description": null,
+        "answers": {
+            "answer_1": "cd",
+            "answer_2": "cd ..",
+            "answer_3": "cd .",
+            "answer_4": "cd\/",
+            "answer_5": "None of the above",
+            "answer_6": "cd.."
+        },
+        "correct_answer": "cd ..",
+        "category": "Linux",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 300,
+        "question": "What is the difference between character 23 and x23?",
+        "description": null,
+        "answers": {
+            "answer_1": "23 specifies the octal 23 and x23 determine the hex 23.",
+            "answer_2": "23 specifies the hex 23 and x23 determine the octal 23"
+        },
+        "correct_answer": "23 specifies the octal 23 and x23 determine the hex 23.",
+        "category": "CMS",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 162,
+        "question": "Which HTML element is used to specify a header for a document or section?",
+        "description": null,
+        "answers": {
+            "answer_1": "<top>",
+            "answer_2": "<header>",
+            "answer_3": "<head>",
+            "answer_4": "<section>"
+        },
+
+        "correct_answer": "<header>",
+        "category": "Linux",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 639,
+        "question": "Which command opens the interactive PHP shell from the command line interface?",
+        "description": null,
+        "answers": {
+            "answer_1": "php -a",
+            "answer_2": "php artisian",
+            "answer_3": "php _run",
+            "answer_4": "php -s",
+            "answer_5": "php -i",
+            "answer_6": "php -int"
+        },
+        "correct_answer": "php -a",
+
+        "category": "Code",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 241,
+        "question": "Can you start two MySQL servers at one PC?",
+        "description": null,
+        "answers": {
+            "answer_1": "True",
+            "answer_2": "False"
+        },
+
+        "correct_answer": "True",
+
+        "category": "SQL",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 768,
+        "question": "Which of the following is used to check that a cookie is set or not?",
+        "description": null,
+        "answers": {
+            "answer_1": "getcookie() function",
+            "answer_2": "$_COOKIE variable",
+            "answer_3": "isset() function",
+            "answer_4": "None of the above."
+        },
+        "correct_answer": "isset() function",
+        "category": "Code",
+        "difficulty": "Hard"
+    }
+
+]
